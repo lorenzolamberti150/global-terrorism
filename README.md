@@ -1,1 +1,16 @@
-# covid-19-presentation
+# global-terrorism
+- Introduzione: il dataset GTD
+- Trend temporali
+  - Numero di attacchi per anno
+  - Numero di vittime per anno
+- Distribuzione geografica
+  - Mappa globale degli attacchi
+  - Paesi più colpiti
+- Caratteristiche degli attacchi
+  - Tipologie di attacchi
+  - Tipologie di armi
+- Impatti
+  - Morti per attacco
+  - Danni economici
+- Gruppi terroristici principali
+- Conclusioni
